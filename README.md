@@ -14,4 +14,4 @@
 
 - Angular
 
-- Token do Facebook para a aplicação criado. [link](https://developers.facebook.com/apps/1726212507671986/dashboard/)
+- Token do Facebook para a aplicação criado.
